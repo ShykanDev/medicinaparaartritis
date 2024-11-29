@@ -37,16 +37,17 @@
 </template>
 
 <script lang="ts" setup>
-
+interface InfoItem {
+  id: number;
+  property: string;
+  description: string;
+}
 const props = defineProps({
   mainTitle: String,
   smallIntro: String,
   description: String,
   imgSrc: String,
-  infoArr:{
-    type: Array,
-     default: () => [] 
-  },
+  infoArr: Array<InfoItem>,
   titleColor: String
 })
 
