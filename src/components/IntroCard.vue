@@ -29,7 +29,7 @@
 
     <!-- Imagen con esquinas redondeadas y sombreado -->
     <img
-      src="https://i.ibb.co/x8jP5bQ/insta-Go-Main.jpg"
+      src="https://i.ibb.co/0mJT1NQ/flexImac.jpg"
       class="w-[40%] rounded-lg shadow-md"
       alt="Imagen representativa de InstaGo"
     />
