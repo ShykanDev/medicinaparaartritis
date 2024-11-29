@@ -38,7 +38,7 @@
   <!-- Sección de imágenes en grid con título en cada una -->
   <section class="grid grid-cols-2 gap-4 p-4 font-bold md:grid-cols-3 lg:grid-cols-4 font-poppins bg-gradient-to-r from-orange-700 via-yellow-500 to-orange-700">
     <div class="relative overflow-hidden bg-white rounded-lg shadow-lg">
-      <img src="https://files.oaiusercontent.com/file-71wLV49UkWyoA3AL4nsq6r?se=2024-11-29T23%3A09%3A17Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D57b746b8-fe71-45d9-a3f9-7ac1e80e22a4.webp&sig=CmlG1W4N9ftuIv9K9xm3uth0WKr%2BGPWNlRz0foDhR24%3D" alt="Problemas de relación" class="object-cover w-full h-full">
+      <img src="https://storage.googleapis.com/a1aa/image/tK1M0rrKfCSyRiH5BfIXnRsK92V7ex83jOU9imo0sox7ffveE.jpg" alt="Problemas de relación" class="object-cover w-full h-full">
       <h2 class="absolute bottom-0 left-0 right-0 p-4 text-center text-white bg-black bg-opacity-50">Alivio al dolor de espalda</h2>
     </div>
 
