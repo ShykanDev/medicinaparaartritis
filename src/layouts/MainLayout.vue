@@ -10,7 +10,8 @@
                     <RouterLink :class="{'border-b-orange-500 border-b-2': route.name === 'spaOne'}" :to="{ name: 'spaOne' }" >Beneficios</RouterLink>
                     <RouterLink :class="{'border-b-orange-500 border-b-2': route.name === 'spaTwo'}" :to="{ name: 'spaTwo' }" >Ingredientes</RouterLink>
                     <RouterLink :class="{'border-b-orange-500 border-b-2': route.name === 'spaThree'}" :to="{ name: 'spaThree' }" >Preguntas</RouterLink>
-                    <RouterLink :class="{'border-b-orange-500 border-b-2': route.name === 'non'}" :to="{ name: 'home' }" >Prasadam</RouterLink>
+                    <!-- <RouterLink :class="{'border-b-orange-500 border-b-2': route.name === 'non'}" :to="{ name: 'home' }" >Prasadam</RouterLink> -->
+                    <a class="hidden md:block" href="https://www.prasadam.mx/" target="_blank">Prasadam</a>
                 </div>
                 <div class="flex items-center justify-around py-1 text-xl text-white bg-orange-400 shadow-md font-poppins">
                     <img class="w-12" src="../assets/ssl-certificate.png" alt="">
