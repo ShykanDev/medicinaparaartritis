@@ -117,7 +117,7 @@
 </template>
 
 <script lang="ts" setup>
-import IntroCard from '@/components/IntroCard.vue';
+// import IntroCard from '@/components/IntroCard.vue';
 import { useRoute } from 'vue-router';
 
 const route = useRoute();

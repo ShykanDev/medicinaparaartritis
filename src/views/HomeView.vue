@@ -584,7 +584,7 @@
               <div data-aos="zoom-out-up" class="p-4 bg-white rounded-lg shadow-md">
                 <img alt="Imagen de una persona recibiendo un tratamiento de Basti"
                   class="object-cover w-full h-48 rounded-t-lg" height="200"
-                  src="https://files.oaiusercontent.com/file-4wDZNkvaAs84nh8NjqfnKE?se=2024-11-29T06%3A23%3A35Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Db116bfe9-cb33-4b40-9813-619fe8e30731.webp&sig=50NHL/D9Z5jXSwFpZ6T9YLnCaXJ9IPN9jDrnWnzEb4U%3D"
+                  src="https://storage.googleapis.com/a1aa/image/VVZWk2skmirxKZVkeCtXpdPGjQ7PuUQUMfJuL4XWhNc2bH2TA.jpg"
                   width="300" />
                 <h3 class="mt-4 text-xl font-bold text-slate-700 font-poppins">
                   Tratamiento Ayurvédico
