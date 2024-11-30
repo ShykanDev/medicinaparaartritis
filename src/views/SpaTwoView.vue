@@ -3,7 +3,7 @@
         <MainLayout>
             <template #main>
                 <section class="flex flex-wrap justify-around">
-
+                  <IngredientsInfo/>
                     <IngredientsCard v-for="ingredient in ingredients" :key="ingredient.mainTitle"
                         :mainTitle="ingredient.mainTitle" :smallIntro="ingredient.smallIntro"
                         :description="ingredient.description" :imgSrc="ingredient.imgSrc"
@@ -16,6 +16,7 @@
 
 <script lang="ts" setup>
 import IngredientsCard from '@/components/IngredientsCard.vue';
+import IngredientsInfo from '@/components/IngredientsInfo.vue';
 import MainLayout from '@/layouts/MainLayout.vue';
 const ingredients = [
 {

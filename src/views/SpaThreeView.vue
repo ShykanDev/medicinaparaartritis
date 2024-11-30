@@ -23,7 +23,7 @@
             </div>
             <div data-aos="fade-up" class="p-6 bg-white border border-orange-500 rounded-lg shadow-lg">
                 <h2 class="mb-2 text-xl font-semibold"><i class="text-orange-500 fas fa-exclamation-triangle icon"></i> 5. ¿Hay efectos secundarios o precauciones que deba tener en cuenta?</h2>
-                <p>Flex Imac Forte es generalmente seguro para la mayoría de las personas. Sin embargo, si tiene alguna condición médica preexistente o está tomando otros medicamentos, es recomendable consultar a su médico antes de comenzar a usar este suplemento. Algunos usuarios pueden experimentar molestias gastrointestinales leves.</p>
+                <p>Flex Imac Forte es generalmente seguro para la mayoría de las personas. Sin embargo, si tiene alguna condición médica preexistente o está tomando otros medicamentos, es recomendable consultar a su médico antes de comenzar a usar este suplemento.</p>
             </div>
             <div data-aos="fade-up" class="p-6 bg-white border border-orange-500 rounded-lg shadow-lg">
                 <h2 class="mb-2 text-xl font-semibold"><i class="text-orange-500 fas fa-hand-holding-medical icon"></i> 6. ¿Puedo usar Flex Imac Forte con otros suplementos o medicamentos?</h2>
@@ -39,7 +39,7 @@
             </div>
             <div data-aos="fade-up" class="p-6 bg-white border border-orange-500 rounded-lg shadow-lg">
                 <h2 class="mb-2 text-xl font-semibold"><i class="text-orange-500 fas fa-shopping-cart icon"></i> 9. ¿Dónde puedo comprar Flex Imac Forte?</h2>
-                <p>Flex Imac Forte está disponible para su compra en línea a través de nuestro sitio web oficial y en tiendas de salud y bienestar seleccionadas.</p>
+                <p>Solo contáctenos y le daremos la información de cómo conseguirlo y de nuestras promociones.</p>
             </div>
             <div data-aos="fade-up" class="p-6 bg-white border border-orange-500 rounded-lg shadow-lg">
                 <h2 class="mb-2 text-xl font-semibold"><i class="text-orange-500 fas fa-shield-alt icon"></i> 10. ¿Es seguro usar Flex Imac Forte a largo plazo?</h2>
@@ -47,7 +47,7 @@
             </div>
             <div data-aos="fade-up" class="p-6 bg-white border border-orange-500 rounded-lg shadow-lg">
                 <h2 class="mb-2 text-xl font-semibold"><i class="text-orange-500 fas fa-certificate icon"></i> 11. ¿Flex Imac Forte tiene certificaciones de calidad?</h2>
-                <p>Sí, Flex Imac Forte cuenta con certificaciones de calidad que garantizan su pureza y eficacia. Está fabricado en instalaciones que cumplen con las normas de Buenas Prácticas de Manufactura (GMP).</p>
+                <p>Sí, Flex Imac Forte cuenta con certificaciones de calidad que garantizan su pureza y eficacia. </p>
             </div>
             <div data-aos="fade-up" class="p-6 bg-white border border-orange-500 rounded-lg shadow-lg">
                 <h2 class="mb-2 text-xl font-semibold"><i class="text-orange-500 fas fa-baby icon"></i> 12. ¿Puedo tomar Flex Imac Forte si estoy embarazada o amamantando?</h2>
