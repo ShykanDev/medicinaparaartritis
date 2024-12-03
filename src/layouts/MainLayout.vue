@@ -37,7 +37,15 @@
   <!-- Sección del dominio y las imágenes (visible solo en pantallas md o mayores) -->
   <div class="items-center hidden gap-4 md:flex animate-fade-up animate-delay-300">
     <img class="w-8 md:w-12" src="../assets/ssl-certificate.png" alt="SSL Certificate">
-    <p class="font-parkinsans">medicinaparaartritis.com</p>
+    <p class="font-parkinsans">
+  <span class="text-gray-900">medicina</span>
+  <span class="text-teal-700">para</span>
+  <span class="text-white">artritis</span>
+  <span class="text-purple-700">.com</span>
+</p>
+
+
+
     <img class="w-8 md:w-12" src="https://medicinaparaansiedad.com/img/logo.png" alt="Logo Medicina para Ansiedad">
   </div>
 </div>
